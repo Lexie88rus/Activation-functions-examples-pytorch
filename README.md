@@ -4,6 +4,8 @@
 Repository containing the article with examples of custom activation functions for Pytorch and scripts used in the article.
 See the [article on Medium](https://towardsdatascience.com/extending-pytorch-with-custom-activation-functions-2d8b065ef2fa) and a [kernel on Kaggle](https://www.kaggle.com/aleksandradeis/extending-pytorch-with-custom-activation-functions).
 
+See also the [article about the in-place activations in PyTorch](https://medium.com/p/in-place-operations-in-pytorch-f91d493e970e?source=email-9f0981e41a86--writer.postDistributed&sk=d44e1786ba9cadee76dcdf87e150a5af).
+
 ## Introduction
 Today deep learning is going viral and is applied to a variety of machine learning problems such as image recognition, speech recognition, machine translation, and others. There is a wide range of highly customizable neural network architectures, which can suit almost any problem when given enough data. Each neural network should be elaborated to suit the given problem well enough. You have to fine tune the hyperparameters of the network (the learning rate, dropout coefficients, weight decay, and many others) as well as the number of hidden layers, and the number of units in each layer. __Choosing the right activation function for each layer is also crucial and may have a significant impact on metric scores and the training speed of the model.__
 
