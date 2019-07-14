@@ -14,3 +14,4 @@ Today deep learning is going viral and is applied to a variety of machine learni
 * My related [kernel on Kaggle](https://www.kaggle.com/aleksandradeis/extending-pytorch-with-custom-activation-functions)
 * [Activation functions wiki](https://en.wikipedia.org/wiki/Activation_function)
 * [Tutorial](https://pytorch.org/docs/master/notes/extending.html) on PyTorch extending.
+* My [article on Medium](https://medium.com/p/in-place-operations-in-pytorch-f91d493e970e?source=email-9f0981e41a86--writer.postDistributed&sk=d44e1786ba9cadee76dcdf87e150a5af) explaining in-place operations in PyTorch.
